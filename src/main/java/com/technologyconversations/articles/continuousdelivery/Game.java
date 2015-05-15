@@ -3,6 +3,8 @@ package com.technologyconversations.articles.continuousdelivery;
 public class Game {
     private Player player1;
     private Player player2;
+    //parametro inutil
+    private int numero = 3;
 
     //metodo inutil
     public final void visualizar() {
