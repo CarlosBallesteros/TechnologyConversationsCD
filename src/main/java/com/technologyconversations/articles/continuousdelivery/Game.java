@@ -1,9 +1,14 @@
 package com.technologyconversations.articles.continuousdelivery;
-//add useless code
+//comentario inutil
 public class Game {
     private Player player1;
     private Player player2;
-    private Player player3;
+    
+    //metodo inutil
+    public void visualizar() {
+        System.out.println(this.player1.getScore());
+    }
+    
     private static final int MIN_SCORE_TO_WIN = 3;
 
     public Game(final Player player1Value, final Player player2Value) {
