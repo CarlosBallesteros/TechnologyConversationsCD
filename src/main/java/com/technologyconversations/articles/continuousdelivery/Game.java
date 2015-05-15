@@ -8,7 +8,7 @@ public class Game {
 
     //metodo inutil
     public final void visualizar() {
-        System.out.println("hola" + numero);
+        System.out.println("hola" + numero + "adios");
     }
 
     private static final int MIN_SCORE_TO_WIN = 3;
