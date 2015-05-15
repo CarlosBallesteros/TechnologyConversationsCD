@@ -3,6 +3,7 @@ package com.technologyconversations.articles.continuousdelivery;
 public class Game {
     private Player player1;
     private Player player2;
+    private Player player3;
     private static final int MIN_SCORE_TO_WIN = 3;
 
     public Game(final Player player1Value, final Player player2Value) {
