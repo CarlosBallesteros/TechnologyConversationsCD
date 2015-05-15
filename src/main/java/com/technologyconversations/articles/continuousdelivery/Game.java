@@ -3,12 +3,12 @@ package com.technologyconversations.articles.continuousdelivery;
 public class Game {
     private Player player1;
     private Player player2;
-    
+
     //metodo inutil
     public void visualizar() {
-        System.out.println(this.player1.getScore());
+        System.out.println("hola");
     }
-    
+
     private static final int MIN_SCORE_TO_WIN = 3;
 
     public Game(final Player player1Value, final Player player2Value) {
