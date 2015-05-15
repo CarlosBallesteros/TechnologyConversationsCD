@@ -1,7 +1,7 @@
 package com.technologyconversations.articles.continuousdelivery;
 //add useless code
 public class Game {
-    private String parametroDeSobra="sobro";
+    private String parametroDeSobra = "sobro";
     private Player player1;
     private Player player2;
     private static final int MIN_SCORE_TO_WIN = 3;
