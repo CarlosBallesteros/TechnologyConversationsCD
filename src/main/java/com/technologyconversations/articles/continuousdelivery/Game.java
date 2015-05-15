@@ -5,7 +5,7 @@ public class Game {
     private Player player2;
 
     //metodo inutil
-    public void visualizar() {
+    public static final void visualizar() {
         System.out.println("hola");
     }
 
