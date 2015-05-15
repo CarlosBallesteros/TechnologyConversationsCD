@@ -1,5 +1,5 @@
 package com.technologyconversations.articles.continuousdelivery;
-//añadido codigo inutil
+//add useless code
 public class Game {
     private String parametroDeSobra="sobro";
     private Player player1;
