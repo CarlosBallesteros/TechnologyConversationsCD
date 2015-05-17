@@ -5,6 +5,7 @@ public class Game {
     private Player player2;
     //parametro inutil
     private int numero = 3;
+    private int numero2 = 2;
 
     //metodo inutil
     public final void visualizar() {
