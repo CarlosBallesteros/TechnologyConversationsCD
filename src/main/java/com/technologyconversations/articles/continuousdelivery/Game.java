@@ -4,7 +4,7 @@ public class Game {
     private Player player1;
     private Player player2;
     //parametro inutil
-    private int numero = 2;
+    private int numero = 2.4;
 
     //metodo inutil
     public final void visualizar() {
