@@ -105,5 +105,10 @@ public class GameTest {
         victor.winBall();
         assertThat(game, hasProperty("score", is("Victor won")));
     }
+    
+    @Test
+    public void testFalso(){
+        assertTrue(true);
+    }
 
 }
