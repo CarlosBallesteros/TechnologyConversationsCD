@@ -109,7 +109,7 @@ public class GameTest {
     @Test
     public final void testFalso() {
         boolean booleano = true;
-        assertThat(booleano,  is(true));
+        assertThat(booleano,  is(false));
     }
 
 }
