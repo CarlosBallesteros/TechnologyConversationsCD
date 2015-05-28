@@ -105,7 +105,7 @@ public class GameTest {
         victor.winBall();
         assertThat(game, hasProperty("score", is("Victor won")));
     }
-    
+
     @Test
     public final void testFalso() {
         boolean booleano = true;
