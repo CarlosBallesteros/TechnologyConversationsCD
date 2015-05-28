@@ -107,7 +107,7 @@ public class GameTest {
     }
     
     @Test
-    public void testFalso(){
+    public void testFalso() {
         boolean booleano = true;
         assertThat(booleano,  is(true));
     }
